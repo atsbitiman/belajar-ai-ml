@@ -3,6 +3,7 @@
 	Connect to Data
 		* Visualization for Amounts and Proportions
 		* Visualization for Distributions
+	Exploratory Data Analysis
 	Worksheet and Dashboard
 	Get to Know Your Data
 	Dashboard and Story
