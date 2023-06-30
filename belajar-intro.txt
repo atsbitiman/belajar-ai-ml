@@ -1,0 +1,14 @@
+1. Introduction to Analytics and Business Intelligence 
+	Case of Business Intelligence Overview
+	Business Intelligence Dimensions
+	Data Acquisition
+	Data Exploration and Visualization
+	Hypothesis Making
+	
+2. Calling Bullshit in AI, Bigdata, and Statistics
+	What is Bullshit
+	Spotting Bullshit
+	Causality in Statistics
+	Small Sample Biased in Statistics
+	Sample Biased in Machine Learning
+	Unobserved Variable
