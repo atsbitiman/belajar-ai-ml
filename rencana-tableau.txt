@@ -5,6 +5,7 @@
 		* Visualization for Distributions
 			^ Type of Distributions
 			^ Making a Density Plot
+			^ Dispersions
 	Exploratory Data Analysis
 		^ How to do EDA
 	Get to Know Your Data
