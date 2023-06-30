@@ -1,0 +1,7 @@
+Menambahkan materi :
+
+1. Introduction to Probability
+2. Python
+3. Data Wrangling & SQL
+4. Machine Learning Process
+5. Introduction to Machine Learning
