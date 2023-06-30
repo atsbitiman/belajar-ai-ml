@@ -1,0 +1,9 @@
+4. Make a Plot with Tableau
+	Visualization Elements
+	Connect to Data
+		* Visualization for Amounts and Proportions
+		* Visualization for Distributions
+	Worksheet and Dashboard
+	Get to Know Your Data
+	Dashboard and Story
+	Visualization Goals and Create Visualization
