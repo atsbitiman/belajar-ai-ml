@@ -4,6 +4,7 @@
 		* Visualization for Amounts and Proportions
 		* Visualization for Distributions
 			^ Making a Histogram
+			^ Making a Density Plot
 	Exploratory Data Analysis
 		^ How to do EDA
 	Worksheet and Dashboard
