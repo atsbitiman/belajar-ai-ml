@@ -12,3 +12,11 @@
 	Small Sample Biased in Statistics
 	Sample Biased in Machine Learning
 	Unobserved Variable
+
+3. Effective Data Visualization
+	Why Visualization is Important
+	What is Visualization
+	Types of Visualization
+	Bad Taste
+	Bad Data
+	Bad Perception
