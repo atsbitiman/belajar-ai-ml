@@ -3,11 +3,10 @@
 	Connect to Data
 		* Visualization for Amounts and Proportions
 		* Visualization for Distributions
-			^ Making a Histogram
+			^ Type of Distributions
 			^ Making a Density Plot
 	Exploratory Data Analysis
 		^ How to do EDA
-	Worksheet and Dashboard
 	Get to Know Your Data
 	Dashboard and Story
 	Visualization Goals and Create Visualization
