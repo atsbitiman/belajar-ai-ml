@@ -10,3 +10,4 @@
 	Get to Know Your Data
 	Dashboard and Story
 	Visualization Goals and Create Visualization
+	EDA2
