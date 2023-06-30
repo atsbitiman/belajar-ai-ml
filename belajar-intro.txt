@@ -17,6 +17,6 @@
 	Why Visualization is Important
 	What is Visualization
 	Types of Visualization
-	Bad Taste
 	Bad Data
 	Bad Perception
+	A Good Way to Learn Visualization
